@@ -1,0 +1,5 @@
+x = 457;
+y = "457"
+x.length;
+y.length;
+x+parseInt(y);
